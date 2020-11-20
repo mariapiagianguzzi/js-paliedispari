@@ -9,6 +9,7 @@ Creare una funzione per capire se la parola inserita è palindroma */
 var parola = prompt("Inserire una parola: "), prova="";
 
 
+
 /* ADESSO CREO LA FUNZIONE PER CAPIRE SE LA PAROLA è PALINDROMA */
 function checkPalindrom(palindrom) {
 
@@ -23,9 +24,5 @@ function checkPalindrom(palindrom) {
 checkPalindrom('parola');  
 
 
-  
 
-
-
-
-
+ 
